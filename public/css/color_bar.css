@@ -1,0 +1,36 @@
+*{
+
+    padding: 0;
+    margin: 0;
+}
+.black-bar{
+
+    background-color: #121822;
+    color: #ffffff;
+    text-align: center;
+    padding: 5px 0; 
+    /*5 arriba, 0 abajo y a los costados nada.*/
+}
+
+body{
+
+    background-color: #ffffff;
+}
+
+nav{
+    background-color: #65acce;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.div-botones-categoria-genero ul{
+    
+    display: flex;
+
+}
+
+.div-botones-categoria-genero{
+
+    padding: 10px 0 10px 0;
+}
